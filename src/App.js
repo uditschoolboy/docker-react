@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hi there this is running inside docker. this is version 3
+          A change in feature branch.
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
